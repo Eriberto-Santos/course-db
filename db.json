@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/8c70f310-47b0-40e2-a779-5c3a54f719d9.png",
+            "name": "Copywriting: ¿cómo escribir para vender más?",
+            "description": "Descubre las técnicas comprobadas de escritura persuasiva que usan las agencias de marketing y expertos en publicidad.",
+            "teacher": "Eriberto Santos García",
+            "price": 704
+        },
+        {
+            "id": 2,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/ef0d92b3-74d6-4bec-bc4f-baa18dcf558e.png",
+            "name": "Express desde cero",
+            "description": "Aprende a configurar tu servidor web con el framework más popular de Node.js",
+            "teacher": "Pablo España",
+            "price": 660
+        },
+        {
+            "id": 3,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/85d3d7e4-19db-4cff-a4cb-cbead813b6b5.png",
+            "name": "Python desde cero",
+            "description": "Aprende los fundamentos de uno de los lenguajes más importantes de la actualidad y crea un administrador de servidor.",
+            "teacher": "Eriberto Santos García",
+            "price": 606
+        },
+        {
+            "id": 4,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/5ffc4c77-cbc3-476d-9c18-e180882a52c9.jpg",
+            "name": "Linux desde cero",
+            "description": "Aprende a utilizar Linux y sus herramientas entendiendo los conceptos que hay detrás del sistema de servidores.",
+            "teacher": "Eriberto Santos García",
+            "price": 670
+        },
+        {
+            "id": 5,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/daa72e4e-c5d0-406e-9f6d-01e646bf719b.png",
+            "name": "CSS desde cero",
+            "description": "Haz hermosa la web con el único lenguaje creado para diseño.",
+            "teacher": "Alvaro Felipe",
+            "price": 750
+        },
+        {
+            "id": 6,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/3ec614b5-a9b7-475c-bf8f-8ba643a129eb.png",
+            "name": "Go desde cero",
+            "description": "Adquiere los conocimientos básicos para iniciar a programar con Go.",
+            "teacher": "Alejandro Rodriguez",
+            "price": 600
+        },
+        {
+            "id": 7,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/fd2adf12-10de-40de-b430-4869c03c8229.png",
+            "name": "Git desde cero",
+            "description": "Aprende el sistema de control de versiones estándar del desarrollo de software.",
+            "teacher": "Beto Quiroga",
+            "price": 450
+        },
+        {
+            "id": 8,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/4e8daacd-2485-4677-80c6-61aae551fe19.png",
+            "name": "Vue.js desde cero",
+            "description": "Vue es un framework progresivo de JavaScript que te da la flexibilidad necesaria para todo tipo de proyectos.",
+            "teacher": "Josh Ospina Tafur",
+            "price": 660
+        }
+
+    ]
+}
